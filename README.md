@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiaSoon
-- 👀 I’m interested in data-related project.
+- 👀 
 - 📫 Reach me at jiasoongan@gmail.com
 
 <!---
